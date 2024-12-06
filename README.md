@@ -1,4 +1,3 @@
-# Python-Log-Analysis-Script
 # Log Analysis Script
 
 ## Overview
